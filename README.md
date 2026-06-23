@@ -1,1 +1,7 @@
-# flutter-examples
+# Flutter examples
+
+TODO
+
+## license
+
+[MIT](./LICENSE)
